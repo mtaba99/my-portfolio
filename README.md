@@ -1,2 +1,3 @@
-# my-portfolio
-my 1st pro portoflio
+
+This is a portfolio built using ReactJ and amazon AWS serverless  service.  October 2017
+GITGIT
